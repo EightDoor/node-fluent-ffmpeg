@@ -1,23 +1,17 @@
 {
-  "name": "fluent-ffmpeg",
-  "version": "2.1.2",
+  "name": "zk-fluent-ffmpeg",
+  "version": "1.1.0",
   "description": "A fluent API to FFMPEG (http://www.ffmpeg.org)",
   "keywords": [
     "ffmpeg"
   ],
   "author": "Stefan Schaermeli <schaermu@gmail.com>",
-  "contributors": [
-    {
-      "name": "Felix Fichte",
-      "email": "spruce@space-ships.de"
-    }
-  ],
   "license": "MIT",
   "bugs": {
-    "mail": "schaermu@gmail.com",
-    "url": "http://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues"
+    "mail": "851708184@qq.com",
+    "url": "https://github.com/EightDoor/node-fluent-ffmpeg/issues"
   },
-  "repository": "git://github.com/fluent-ffmpeg/node-fluent-ffmpeg.git",
+  "repository": "git://github.com/EightDoor/node-fluent-ffmpeg",
   "devDependencies": {
     "mocha": "latest",
     "should": "latest",
